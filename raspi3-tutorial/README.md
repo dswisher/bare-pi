@@ -34,5 +34,13 @@ The only change I had to make was in the Makefile, to use the brew-installed LLV
 
 # [Tutorial 02](https://github.com/bztsrc/raspi3-tutorial/tree/master/02_multicorec) - Multicore C
 
+Seems to work, although I need to learn a bit more about ARM assembly to be sure. Open questions:
+
+* What exactly is the assembly doing?
+* What is the loader file (`link.ld`) doing?
+
+
+# [Tutorial 03](https://github.com/bztsrc/raspi3-tutorial/tree/master/03_uart1) - UART1, Auxilary mini UART
+
 TODO
 

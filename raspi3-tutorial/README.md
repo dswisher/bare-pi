@@ -38,6 +38,11 @@ Seems to work, although I need to learn a bit more about ARM assembly to be sure
 
 * What exactly is the assembly doing?
 * What is the loader file (`link.ld`) doing?
+  * See [GNU ld](https://ftp.gnu.org/old-gnu/Manuals/ld-2.9.1/html_chapter/ld_3.html#SEC5) docs for some hints
+  * ELF format:
+    * [Understanding](https://linuxhint.com/understanding_elf_file_format/)
+    * [Hello World](https://cirosantilli.com/elf-hello-world)
+    * [The 101](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
 
 
 # [Tutorial 03](https://github.com/bztsrc/raspi3-tutorial/tree/master/03_uart1) - UART1, Auxilary mini UART
